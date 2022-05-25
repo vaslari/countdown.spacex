@@ -1,6 +1,6 @@
 {
   "name": "spacex-platzi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A web application that shows info of SpaceX, using spaceX rest API",
   "main": "index.html",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santiaguf/spacex-platzi.git"
+    "url": "git+https://github.com/vaslari/spacex-platzi.git"
   },
   "keywords": [
     "platzi",
@@ -25,9 +25,9 @@
   "author": "@vaslari forked from @santiaguf",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/santiaguf/spacex-platzi/issues"
+    "url": "https://github.com/vaslari/spacex-platzi/issues"
   },
-  "homepage": "https://github.com/santiaguf/spacex-platzi#readme",
+  "homepage": "https://github.com/vaslari/spacex-platzi#readme",
   "devDependencies": {
     "eslint": "^8.12.0",
     "htmlhint": "^1.1.3",
